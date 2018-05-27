@@ -1,0 +1,2 @@
+I have a taken a dataset consisting of various emails and classified them as Spam/Ham.Severaal ML algorithms such as Decision Tree classifier,Support Vector Classifier have been applied.
+However the best accuracy is given by Neural Nets.97% accuracy was given by Multilayer Perceptron which increased further to 98% on using Recurrent Neural Networks+LSTM(Long Short Term Memroy) cells.
